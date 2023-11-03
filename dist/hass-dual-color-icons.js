@@ -92,7 +92,7 @@ window.customIconsets = window.customIconsets || {};
 window.customIconsets["dci"] = getIcon;
 
 console.info(
-  `%c DUAL-COLOR-ICONS %c Version 0.0.1`,
+  `%c DUAL-COLOR-ICONS %c Version 1.0.0`,
   "color: orange; font-weight: bold; background: black",
   "color: white; font-weight: bold; background: dimgray"
 );
