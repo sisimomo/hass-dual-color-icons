@@ -2,6 +2,7 @@
 name: Validate
 
 on:
+  push:
   pull_request:
   release:
     types: [ published ]
