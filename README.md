@@ -64,8 +64,11 @@ entities:
 ### Icon Requests?
 Your dual color icon is not there? Let me know what's missing by raising a [Custom Icon Request](https://github.com/sisimomo/hass-dual-color-icons/issues/new?labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20fixture%5D).
 
+### All Icons
+![lovelace_example](/docs/icons.png)
+
 ### Sample Dash
-With view icons and state color applied. Play bars are offline.
+With view icons and state color applied.
 ![lovelace_example](/docs/examples/274958492-39adba16-e687-4931-9e8c-8e6160eb930e.png)
 ![lovelace_example](/docs/examples/274958507-a5820f92-1736-49c3-916d-99503b15be18.png)
 
